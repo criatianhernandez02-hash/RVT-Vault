@@ -19,13 +19,19 @@ Drop a link here the moment you meet it, with one line on why. When something tu
 - **VCA pet health library** — vcahospitals.com/know-your-pet — plain-English explanations of conditions, good for a first pass before the textbook
 
 ## Links to look at
-- 
+- Wendy Myers exam-room handouts (Auburn CVM): *5-Star Experience in the Exam Room*, *Look and Talk Like a Veterinary Professional*, *Master the Art of Presenting Treatment Plans* — scripted, technician-level; summarized in [[Client Communication - Rapport and Recommendations]]
+- dvm360, *9 steps to a perfect veterinary appointment* and *Wrong language can alienate veterinary clients* — short reads for before a shift
+- AAHA Trends, *Vaccine hesitancy and the importance of client communication* — how to talk with hesitant owners without arguing
+- Fear Free, "Communicating with Clients" archive — fearfree.com/topic/communicating-with-clients
+- University of Minnesota, open *Communication Curriculum Guide* — the Calgary-Cambridge skills in plain language
 
 ## Papers and articles (PDFs go in `Attachments/Papers/`)
 - 
 
 ## Videos (paste the transcript into a Source Note if you want Claude to work with it)
-- 
+- dvm360 videos: *3 approaches to veterinary client communication show why one works*; *Putting nervous clients at ease*
+- Podcasts for the commute: *The Cone of Shame* (Dr. Andy Roark) and the *Uncharted Veterinary Podcast* — client conversations come up constantly
+- YouTube searches worth running: "Dr. Andy Roark client communication", "Fear Free Pets client communication", "veterinary exam room communication skills"
 
 ## Source notes (live, via Dataview)
 ```dataview

@@ -48,4 +48,5 @@ source: Penn Foster VET103LB, section 696569: Communication in the Veterinary Fi
 #flashcards
 
 ## Related
+- [[Client Communication - Rapport and Recommendations]] (read first: the skills, phrases and resources for rooming patients and making recommendations)
 - ← Previous: [[IVT L03 - Professional Behavior in the Veterinary Field]] · Next: [[IVT L05 - Working Within Legal Requirements]] →

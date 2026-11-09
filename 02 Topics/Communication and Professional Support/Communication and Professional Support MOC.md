@@ -20,6 +20,7 @@ summary: Map for the communication and professional support domain (5 %): client
 - Professional wellbeing: compassion fatigue, burnout, continuing education
 
 ## Core notes
+- [[Client Communication - Rapport and Recommendations]]
 - [[Veterinary Technician Credentials]]
 - [[Continuing Education Rules - California vs Arizona]]
 - [[Continuing Education Options and Employer Support]]
