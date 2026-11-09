@@ -14,7 +14,7 @@ Penn Foster's Veterinary Technician A.S. is four semesters, 66 credits, with Ext
 - Facts that outlive the course (how the heart works, what a drug does) belong in `02 Topics`, linked from the lecture. The lecture note is *where you learned it*; the topic note is *what you know*.
 
 ## Semester 1 — foundations
-*Public pages mention biology, animal anatomy and physiology (textbook: Clinical Anatomy and Physiology for Veterinary Technicians), veterinary office management, and general education.*
+*Partner pages list a first semester along the lines of: Orientation to Veterinary Technology, Introduction to Veterinary Technology, Information Literacy, Computer Applications, Introduction to Biology, a short anatomy-and-physiology fundamentals course (textbook: Clinical Anatomy and Physiology for Veterinary Technicians), and a short course on the veterinary team, communication and ethics. Titles differ between curriculum versions, so use the ones in your student portal; tell Claude "new course: <title>" for each and the folders get built.*
 - 
 
 ## Semester 2 — nursing and pharmacology
