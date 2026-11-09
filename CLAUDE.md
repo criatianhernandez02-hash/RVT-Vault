@@ -9,7 +9,7 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 | Folder | Holds | Template |
 | --- | --- | --- |
 | `00 Inbox/` | Quick captures and `Questions for Claude.md` | — |
-| `01 Courses/<Course>/` | Lecture notes per Penn Foster course, each course with its own `<Course> MOC` | Lecture Note |
+| `01 Courses/<Course>/` | One note per Penn Foster course section, each course with its own `<Course> MOC`. Semester 1 codes: `IVT`, `FVT`, `ILS`, `BIO`, `AP1`, `AP2`. `01 Courses/Semester 1 Pacing Plan.md` holds the schedule and study rhythm | Lecture Note |
 | `02 Topics/<VTNE domain>/` | Evergreen knowledge: topics, drug cards, condition cards, procedures. One folder per VTNE domain plus two supporting areas (Anatomy and Physiology, Exotic Animal Medicine), each with a `<Domain> MOC` | Topic Note, Drug Card, Condition Card, Procedure Note |
 | `03 Flashcards/` | Flashcard sets | Flashcard Set |
 | `04 Resources/` | Reference tables: normal values, dosage math, terminology | — |
@@ -21,7 +21,8 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 
 ## Vault conventions (Obsidian depends on these)
 
-- Notes are Markdown with YAML frontmatter. Property names are fixed: `type`, `course`, `lesson`, `vtne_domain`, `species`, `body_system`, `drug_class`, `controlled_schedule`, `tags`, `status`, `created`, `updated`, `summary`, `aliases`, `source`. Do not invent new properties without asking.
+- Notes are Markdown with YAML frontmatter. Property names are fixed: `type`, `course`, `lesson`, `vtne_domain`, `species`, `body_system`, `drug_class`, `controlled_schedule`, `tags`, `status`, `created`, `updated`, `target`, `summary`, `aliases`, `source`. Do not invent new properties without asking.
+- `target` (ISO date) is the planned completion date of a course section, from the pacing plan. On section notes, `status: evergreen` means the owner has passed that section's exam.
 - `type` is one of: `lecture`, `topic`, `drug`, `condition`, `procedure`, `flashcards`, `study-log`, `moc`, `resource`.
 - `status` is one of: `seed` (just started), `growing`, `evergreen` (complete and reviewed).
 - `vtne_domain` must match a domain or supporting-area name exactly as written in `Topics MOC` (for example `Pharmacy and Pharmacology`, `Emergency and Critical Care`, `Anatomy and Physiology`).
@@ -60,6 +61,8 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 - **"find gaps in X"**: compare the domain MOC's coverage checklist against the notes that exist and list what is missing.
 - **"clean up"**: normalize frontmatter, link orphans into their MOCs, turn unlinked mentions into wikilinks, then report what changed. No renames or moves.
 - **"new course: X"**: create `01 Courses/X/` with an `X MOC.md` from the Map of Content template and add it to `Courses MOC`.
+- **"what's due"**: list section notes whose `target` falls in the next seven days, and anything overdue (`target` before today and `status` not `evergreen`), with links.
+- **"re-plan"**: recompute `target` dates for every section not yet `evergreen`, in order, from today: two sections a week (Wednesday and Saturday) unless the owner asks for a different pace, never later than Penn Foster's own end date (April 30, 2027 for Semester 1). Update the section notes, the course MOC tables and the week-by-week list and milestones in `Semester 1 Pacing Plan`, then report the new finish date and cushion.
 - **"file my inbox"**: move notes out of `00 Inbox` only by asking the owner to drag them in Obsidian, or by creating a properly named new note and linking it, then telling them which inbox note it replaces.
 
 ## Git

@@ -17,6 +17,8 @@ Your RVT study vault. Everything is one or two clicks from here.
 > 6. End the night with `Ctrl/Cmd + P` → *Open today's daily note* and write two lines about what you covered and what's next.
 
 ## Start here
+- 🎓 **Now:** [[Introduction to Veterinary Technology MOC]] — Semester 1, your current course; every section has a note waiting
+- 📅 [[Semester 1 Pacing Plan]] — two sections a week, 1–2 hours a day, finish Semester 1 by March 24, 2027
 - 📚 [[Courses MOC]] — your Penn Foster courses, one folder each, lecture notes inside
 - 🧠 [[Topics MOC]] — everything you learn, organized by the 10 VTNE exam domains
 - ❓ [[Questions for Claude]] — drop questions while you study; Claude answers them inside the vault
@@ -34,7 +36,7 @@ Your RVT study vault. Everything is one or two clicks from here.
 Open this repository in Claude Code at claude.ai/code, then try:
 - *"answer my questions"*
 - *"quiz me on anesthesia monitoring, ten questions, one at a time"*
-- *"make flashcards from [[AP1 L03 - Cardiovascular System]]"*
+- *"make flashcards from [[IVT L01 - Working in the Veterinary Field]]"*
 - *"I don't get why heart rate drops under dexmedetomidine. Explain it simply, using my notes first."*
 - *"summarize what I studied this week and tell me what to review"*
 - *"new course: Veterinary Pharmacology"* (creates the folder and map)
@@ -42,7 +44,7 @@ Open this repository in Claude Code at claude.ai/code, then try:
 Claude reads `CLAUDE.md` for the house rules: your notes first, then the web with sources, always written back into the vault.
 
 ## Recently updated
-Needs the free **Dataview** community plugin; harmless without it.
+Live list from the **Dataview** plugin, which ships with the vault.
 
 ```dataview
 TABLE type, updated

@@ -1,0 +1,41 @@
+---
+type: lecture
+course: Introduction to Veterinary Technology
+lesson: 3
+vtne_domain: Communication and Professional Support
+tags: [rvt, lecture, communication]
+status: seed
+created: 2026-11-09
+updated: 2026-11-09
+target: 2026-11-18
+summary: Notes for Introduction to Veterinary Technology, section 3: Professional Behavior in the Veterinary Field.
+source: Penn Foster VET103LB, section 696568: Professional Behavior in the Veterinary Field
+---
+# IVT L03 - Professional Behavior in the Veterinary Field
+
+> [!info] Section info
+> **Course:** [[Introduction to Veterinary Technology MOC|Introduction to Veterinary Technology]]
+> **Section:** 3 of 8 · Penn Foster section 696568
+> **Target:** Wed Nov 18, 2026 · Penn Foster's 6-month date: Sun Nov 15, 2026
+> **Textbook pages / media:** 
+
+## Key terms
+- **Term** — definition in my own words
+
+## Notes
+<!-- One idea per bullet. Link to topic notes with [[double brackets]] as you go; a grey link just means the note doesn't exist yet. -->
+- 
+
+## Summary (three sentences, in my own words)
+
+
+## Questions I still have
+<!-- Copy anything here into [[Questions for Claude]], or ask Claude to "answer the questions in my latest lecture notes". -->
+- 
+
+## Flashcards
+<!-- Format: Question::Answer   (one per line) -->
+#flashcards
+
+## Related
+- ← Previous: [[IVT L02 - Contributing to a Veterinary Team]] · Next: [[IVT L04 - Communication in the Veterinary Field]] →

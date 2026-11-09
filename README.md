@@ -18,7 +18,7 @@ RVT-Vault/
 ├── Templates/              note templates (Lecture, Topic, Drug Card, ...)
 ├── Attachments/            images and PDFs
 ├── CLAUDE.md               house rules for Claude sessions in this vault
-└── .obsidian/              vault settings (shared), minus per-device files
+└── .obsidian/              vault settings and pre-installed plugins (shared), minus per-device files
 ```
 
 Every note has a small block of properties at the top (type, course, VTNE domain, tags, status, dates, a one-line summary). That is what lets Obsidian, its plugins and Claude find and connect things. The templates fill most of it in for you.
@@ -31,10 +31,15 @@ Every note has a small block of properties at the top (type, course, VTNE domain
    git clone https://github.com/criatianhernandez02-hash/RVT-Vault.git
    ```
 3. **Open it in Obsidian:** *Open folder as vault* → choose the `RVT-Vault` folder. The settings in `.obsidian` (templates folder, daily notes folder, attachments folder) load automatically.
-4. **Turn on community plugins:** Settings → Community plugins → *Turn on community plugins*.
-5. **Install the Git plugin:** Settings → Community plugins → Browse → search **"Git"** (by Vinzent03) → Install → Enable. This is the plugin that syncs the vault with GitHub.
-6. **Set the Git plugin to sync on its own.** In its settings: set *Auto commit-and-sync interval* to something like 10 minutes, turn on *Pull on startup*, and set *Auto pull interval* to 10 minutes. From then on, edits are committed and pushed for you. The first push asks you to sign in to GitHub once (Git Credential Manager handles it).
-7. Optional but recommended plugins, installed the same way: **Dataview** (makes the "recently updated" lists on `Home.md` and the flashcard index live) and **Spaced Repetition** (turns every `#flashcards` card into a review schedule, like Anki).
+4. **Enable the plugins that ship with the vault.** Obsidian notices the vault contains community plugins and shows a *Restricted mode* notice; choose **Trust author and enable plugins**. (If you miss it: Settings → Community plugins → *Turn on community plugins*.) Four plugins come pre-installed in `.obsidian/plugins`:
+   - **Git** (by Vinzent03): syncs the vault with GitHub.
+   - **Editing Toolbar** (by PKM-er): a formatting toolbar above the editor.
+   - **Callout Manager** (by eth-p): browse, customize and create the colored callout boxes the templates use (`> [!tip]`, `> [!warning]`, and so on).
+   - **Dataview**: powers the live lists on `Home.md`, the pacing plan and the flashcard index.
+   - **Spaced Repetition**: turns every `#flashcards` card into a review schedule, like Anki.
+
+   Keep Obsidian itself up to date; the Git plugin needs Obsidian 1.13 or newer.
+5. **Set the Git plugin to sync on its own.** In its settings: set *Auto commit-and-sync interval* to something like 10 minutes, turn on *Pull on startup*, and set *Auto pull interval* to 10 minutes. From then on, edits are committed and pushed for you. The first push asks you to sign in to GitHub once (Git Credential Manager handles it).
 
 Commands you will use constantly (`Ctrl/Cmd + P` opens the command palette): *Insert template*, *Open today's daily note*, *Git: Commit-and-sync*.
 
@@ -44,7 +49,7 @@ Obsidian mobile can sync with GitHub too, through the same Git plugin.
 
 1. Create a **GitHub personal access token** at github.com → Settings → Developer settings → Personal access tokens → *Fine-grained tokens*: pick only this repository and give it *Contents: Read and write*. Copy the token; you will not see it again.
 2. Install Obsidian from the app store and create a new empty vault called `RVT-Vault`.
-3. Settings → Community plugins → turn on → Browse → install and enable **Git**.
+3. Settings → Community plugins → turn on → Browse → install and enable **Git**. (The other plugins arrive with the vault when it clones; accept *Trust author and enable plugins* if Obsidian asks.)
 4. In the Git plugin settings, under *Authentication / commit author*, enter your GitHub username and paste the token as the password. The token is stored on the device, not in the vault.
 5. Command palette → **Git: Clone an existing remote repo** → paste `https://github.com/criatianhernandez02-hash/RVT-Vault.git` → when asked, confirm the vault root as the destination → restart Obsidian when prompted.
 6. Turn on the same auto-sync settings as on the computer.
@@ -57,7 +62,7 @@ Open this repository in Claude Code (claude.ai/code → this repository) and tal
 
 - *"answer my questions"* — works through `00 Inbox/Questions for Claude.md`: your notes first, then the web with sources, and writes the answers into the vault.
 - *"quiz me on anesthesia monitoring, ten questions, one at a time"*
-- *"make flashcards from [[AP1 L03 - Cardiovascular System]]"*
+- *"make flashcards from [[IVT L01 - Working in the Veterinary Field]]"*
 - *"I don't get why heart rate drops under dexmedetomidine. Explain it simply, using my notes first."*
 - *"summarize what I studied this week and tell me what to review"*
 - *"new course: Veterinary Pharmacology"*

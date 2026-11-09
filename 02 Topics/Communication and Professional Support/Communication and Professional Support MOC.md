@@ -20,7 +20,12 @@ summary: Map for the communication and professional support domain (5 %): client
 - Professional wellbeing: compassion fatigue, burnout, continuing education
 
 ## Core notes
-- 
+- [[Veterinary Technician Credentials]]
+- [[VCPR]]
+- [[Veterinary Regulatory Agencies]]
+
+## Courses that feed this domain
+- [[Introduction to Veterinary Technology MOC]]
 
 ## Flashcards
 - 

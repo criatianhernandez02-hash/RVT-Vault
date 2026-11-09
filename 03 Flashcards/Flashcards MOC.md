@@ -19,13 +19,13 @@ Multi-line:    Name the four vital signs in TPR plus one.
 
 ## Reviewing
 - **Without plugins:** open a set and cover the answers; or ask Claude *"quiz me from [[Flashcards MOC]]"*.
-- **With the free Spaced Repetition community plugin:** it finds every `#flashcards` card in the vault and schedules reviews for you, like Anki but inside Obsidian.
+- **With the Spaced Repetition plugin (pre-installed):** it finds every `#flashcards` card in the vault and schedules reviews for you, like Anki but inside Obsidian. Start a review from the flashcard icon in the left ribbon.
 - **Ask Claude to make them:** *"make flashcards from [[some lecture note]]"* creates a set here and links it below.
 
 ## Sets
 - 
 
-## All flashcard notes (Dataview, optional)
+## All flashcard notes (live, via Dataview)
 ```dataview
 LIST FROM #flashcards AND !"Templates"
 SORT file.name ASC

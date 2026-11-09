@@ -10,7 +10,8 @@ course:
 - [ ] 
 
 ## What I studied
-- **Course / lesson:** 
+- **Section I'm on:** [[ ]] · target date from [[Semester 1 Pacing Plan]]: 
+- **Minutes studied:** 
 - **Notes created or updated:** [[ ]]
 
 ## Confusing points
