@@ -52,6 +52,20 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
   - Kennel attendant
   - Practice manager
   - The clinic's veterinarian or veterinarians
+- **Client care responsibilities of a technician**
+  - Collecting medical history
+  - Answering client questions
+  - Explaining tests and treatments that have been recommended by the veterinarian <!-- heard "tasks and treatment that have been recorded"; confirm the wording -->
+  - Educating clients on disease prevention and treatment
+- **Administrative responsibilities of a technician**
+  - Managing patient records
+  - Scheduling appointments
+  - Ensuring accurate billing and payment processing
+  - Maintaining inventory: ordering and organizing medical supplies, medications and vaccines
+  - Communicating with clients: reminders for follow-up care, explaining treatment plans, answering questions about procedures or pet health concerns
+  - Maintaining records for controlled substances
+  - Maintaining radiation safety logs
+  - Complying with applicable laws
 
 > [!tip] Claude's note on "performing physical exams"
 > Technicians do perform physical examinations in the nursing sense: TPR, weight, body condition, mucous membranes, the head-to-tail check, and recording every finding. Interpreting those findings into a diagnosis or prognosis stays with the veterinarian. Worth phrasing it that way on the exam. See [[Supervision Levels and Scope of Practice - California]].
