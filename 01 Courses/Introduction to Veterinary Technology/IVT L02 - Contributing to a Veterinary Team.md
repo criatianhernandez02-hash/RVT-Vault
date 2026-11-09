@@ -18,13 +18,18 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 > **Section:** 2 of 8 · Penn Foster section 696567
 > **Target:** Sat Nov 14, 2026 · Penn Foster's 6-month date: Tue Nov 10, 2026
 > **Textbook pages / media:** 
+> **Objectives (paraphrased from the lesson):**
+> 1. Tell apart the roles, education and legal scope of practice of each member of the veterinary medical team.
+> 2. Explain the levels of veterinary supervision and decide which technician duties fit under immediate, direct and indirect supervision.
+> 3. Weigh the technician's professional responsibilities: client communication, administrative duties, and decision-making in emergency care.
+> 4. Explore alternative career paths and work settings for technicians, including specialty and non-clinical roles.
 
 ## Before reading
-<!-- Pre-questions drafted by Claude from the section title and [[Veterinary Technician Credentials]]; replace or add your own after skimming the headings. -->
-1. Who is on a veterinary team (veterinarian, technician, technologist, assistant, practice manager, receptionist, kennel staff), and what does each role own day to day?
-2. What may a credentialed technician do that an assistant may not, and which four things stay with the veterinarian no matter what?
-3. What do the supervision levels (immediate, direct, indirect) mean in practice, and who decides which tasks need which level?
-4. How does the way a team communicates (handoffs, records, huddles, how you talk to each other in front of clients) change the patient's care and the client's experience?
+<!-- One pre-question per objective, drafted by Claude; add your own after skimming the headings. -->
+1. Who is on the team, what training does each role need, and what may each one legally do? Which four things stay with the veterinarian no matter what?
+2. What do immediate, direct and indirect supervision mean, which technician duties fit under each, and how does California name and define these levels?
+3. Beyond procedures, what is a technician responsible for in client communication and administrative work, and what may a technician decide and do in an emergency when the veterinarian isn't available?
+4. Where do technicians work besides general practice (specialty and VTS, emergency, shelter, zoo and wildlife, lab animal and research, industry, teaching, government), and what does each path ask for?
 
 ## Key terms
 - **Term** — definition in my own words
@@ -49,5 +54,7 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 #flashcards
 
 ## Related
-- [[Veterinary Technician Credentials]]
+- [[Veterinary Technician Credentials]] (roles, education, career paths: objectives 1 and 4)
+- [[Supervision Levels and Scope of Practice - California]] (supervision levels, RVT tasks by level, emergency care: objectives 2 and 3)
+- [[Client Communication - Rapport and Recommendations]] (the communication half of objective 3)
 - ← Previous: [[IVT L01 - Working in the Veterinary Field]] · Next: [[IVT L03 - Professional Behavior in the Veterinary Field]] →
