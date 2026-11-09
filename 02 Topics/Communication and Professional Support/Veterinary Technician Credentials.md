@@ -54,7 +54,7 @@ The credential travels. Common paths, and what each tends to ask for:
 | **Shelter medicine** | High-volume spay/neuter, vaccination clinics, population health, behavior | Efficiency, resilience, public-health mindset |
 | **Zoo, wildlife, aquarium, exotics** | Husbandry, anesthesia of unusual species, conservation programs | Patience, exotics knowledge; competitive, often volunteer first |
 | **Laboratory animal and research** | Universities, pharma, biotech: animal welfare, protocols, colony health | Detail and documentation; AALAS certifications (ALAT, LAT, LATG) are the ladder |
-| **Large animal and equine** | Farm and ambulatory calls, reproduction, herd health | Physical work, driving, independence under indirect supervision |
+| **Large animal and equine** | Farm and ambulatory calls, reproduction, herd health; equine hospitals and racetracks | Physical work, driving, independence under indirect supervision; the specialist route is the [[Equine VTS Pathway]] |
 | **Industry** | Technical services, sales or training for drug, nutrition, equipment and software companies | Clinical credibility plus communication; often travel |
 | **Education** | Teaching in RVT programs, clinical instruction, exam-prep content | Experience plus a love of explaining; bachelor's often preferred |
 | **Government and public health** | USDA/APHIS, state agriculture departments, military (Army veterinary technicians), public health labs | Regulatory knowledge, biosecurity, zoonoses |

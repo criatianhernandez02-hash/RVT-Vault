@@ -14,6 +14,7 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 | `03 Flashcards/` | Flashcard sets | Flashcard Set |
 | `04 Resources/` | Reference tables (normal values, dosage math, terminology), `How to Study a Section` (the study method), `Reading List`, and Source Notes for papers, articles, videos and websites | Source Note |
 | `05 Study Log/` | One note per study day (Obsidian daily notes) | Study Session Log |
+| `06 Career and Interests/` | The owner's personal interests and career paths (one note per interest with requirements and a "Next step from here"), with `Career and Interests MOC` | Topic Note |
 | `Templates/` | Templates for the Obsidian core Templates plugin | — |
 | `Attachments/` | Files embedded or linked from notes. Pasted images land at the top level; Penn Foster files go in `Course Materials/<Code>/`; papers and articles in `Papers/` | — |
 
@@ -26,7 +27,7 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 - `type` is one of: `lecture`, `topic`, `drug`, `condition`, `procedure`, `flashcards`, `study-log`, `moc`, `resource`.
 - `status` is one of: `seed` (just started), `growing`, `evergreen` (complete and reviewed).
 - `vtne_domain` must match a domain or supporting-area name exactly as written in `Topics MOC` (for example `Pharmacy and Pharmacology`, `Emergency and Critical Care`, `Anatomy and Physiology`).
-- Tags are a controlled vocabulary: `rvt`, `moc`, `lecture`, `drug`, `condition`, `procedure`, `flashcards` (sub-tags allowed, such as `flashcards/pharmacology`), `resource`, `source` (on Source Notes), `study-log`, `question`, `needs-review`, plus one lowercase domain tag such as `pharmacology`, `anesthesia`, `nursing`, `surgery`, `dentistry`, `laboratory`, `imaging`, `emergency`, `analgesia`, `communication`, `exotics`, `anatomy`. No `#` inside frontmatter.
+- Tags are a controlled vocabulary: `rvt`, `moc`, `lecture`, `drug`, `condition`, `procedure`, `flashcards` (sub-tags allowed, such as `flashcards/pharmacology`), `resource`, `source` (on Source Notes), `study-log`, `question`, `needs-review`, `career` (notes in `06 Career and Interests`), plus one lowercase domain tag such as `pharmacology`, `anesthesia`, `nursing`, `surgery`, `dentistry`, `laboratory`, `imaging`, `emergency`, `analgesia`, `communication`, `exotics`, `anatomy`. No `#` inside frontmatter.
 - Links are wikilinks, `[[Note Title]]`, resolved by **filename**, so every filename must be unique across the whole vault. Filenames are Title Case with spaces. Never use `# | ^ : % [ ] /` in a filename.
 - Lecture notes are named `<Course code> L<nn> - <Title>`, for example `AP1 L03 - Cardiovascular System`.
 - Dates are ISO `YYYY-MM-DD`. Bump `updated` on any note you change.

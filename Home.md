@@ -24,6 +24,7 @@ Your RVT study vault. Everything is one or two clicks from here.
 - 🧠 [[Topics MOC]] — everything you learn, organized by the 10 VTNE exam domains
 - ❓ [[Questions for Claude]] — drop questions while you study; Claude answers them inside the vault
 - 🃏 [[Flashcards MOC]] — every flashcard set, ready for review
+- 🐎 [[Career and Interests MOC]] — personal interests and the roads to them; equine first
 
 ## Quick references
 - [[Normal Values]] · [[Drug Dosage Calculations]] · [[Medical Terminology Glossary]] · [[Reading List]]
