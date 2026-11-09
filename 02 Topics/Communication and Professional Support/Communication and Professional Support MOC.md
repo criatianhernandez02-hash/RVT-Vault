@@ -21,6 +21,8 @@ summary: Map for the communication and professional support domain (5 %): client
 
 ## Core notes
 - [[Veterinary Technician Credentials]]
+- [[Continuing Education Rules - California vs Arizona]]
+- [[Continuing Education Options and Employer Support]]
 - [[VCPR]]
 - [[Veterinary Regulatory Agencies]]
 

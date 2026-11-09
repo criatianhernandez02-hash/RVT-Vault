@@ -47,6 +47,13 @@ source: Penn Foster VET103LB, section 696566: Working in the Veterinary Field
 <!-- Format: Question::Answer   (one per line) -->
 #flashcards
 
+## Research tasks (from the lesson)
+<!-- Facts and sources are in the linked notes; write what you submit in your own words under "Your write-up" in each. -->
+- [ ] CE rules in my state (California) and a nearby state (Arizona), with the main differences → [[Continuing Education Rules - California vs Arizona]]
+- [ ] CE sources (conferences, online, in person) and their pros and cons → [[Continuing Education Options and Employer Support]]
+- [ ] How employers support CE, and how I would ask for it → [[Continuing Education Options and Employer Support]]
+
 ## Related
 - [[Veterinary Technician Credentials]]
+- [[Continuing Education Rules - California vs Arizona]] · [[Continuing Education Options and Employer Support]]
 - ← Previous: [[IVT L00 - Getting Started]] · Next: [[IVT L02 - Contributing to a Veterinary Team]] →

@@ -31,7 +31,7 @@ Supervision comes in levels that states define differently, usually some version
 ## RVT, LVT, CVT: same job, different state law
 - **RVT** (Registered), **LVT** (Licensed), **CVT** (Certified) and **LVMT** (Licensed Veterinary Medical Technician, Tennessee) are the same credential under different state names. California uses **RVT**.
 - The title is protected in many states: calling yourself a veterinary technician without the credential can be illegal.
-- Renewal usually requires **continuing education** hours every one to two years.
+- Renewal usually requires **continuing education** hours every one to two years (California: 20 hours per two years; details in [[Continuing Education Rules - California vs Arizona]]).
 - Moving states means applying to the new state board; the VTNE score transfers through the AAVSB.
 
 ## The path
