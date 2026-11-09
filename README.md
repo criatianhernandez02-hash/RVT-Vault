@@ -25,6 +25,19 @@ Every note has a small block of properties at the top (type, course, VTNE domain
 
 ## Set up on a computer
 
+**Shortcut:** one pasted command does steps 1, 2, 3 and 5 for you (installs Git and Obsidian if missing, clones the vault to `Documents/RVT-Vault`, sets the Git plugin to sync every 10 minutes, opens the vault). Step 4 stays a single click inside Obsidian.
+
+- Windows: open PowerShell (Start menu → type *PowerShell*; no admin needed) and paste
+  ```powershell
+  irm https://raw.githubusercontent.com/criatianhernandez02-hash/RVT-Vault/claude/cloud-environment-setup-ldu8h3/.setup/setup-windows.ps1 | iex
+  ```
+- Mac: open Terminal and paste
+  ```bash
+  bash <(curl -fsSL https://raw.githubusercontent.com/criatianhernandez02-hash/RVT-Vault/claude/cloud-environment-setup-ldu8h3/.setup/setup-mac.sh)
+  ```
+
+The scripts live in `.setup/` if you want to read them first. Or do it by hand:
+
 1. **Install Obsidian** from obsidian.md, and **install Git**: on Windows, Git for Windows (gitforwindows.org); on a Mac, run `xcode-select --install` in Terminal.
 2. **Clone the vault.** In a terminal, go to the folder where you keep documents and run:
    ```bash
