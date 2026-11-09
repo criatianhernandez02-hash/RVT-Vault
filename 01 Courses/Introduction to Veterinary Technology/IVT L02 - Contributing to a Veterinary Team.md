@@ -66,9 +66,20 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
   - Maintaining records for controlled substances
   - Maintaining radiation safety logs
   - Complying with applicable laws
+- **Technicians and veterinarians working together**
+  - **Main duties of the veterinarian** (these are never delegated to a technician): diagnosing diseases (for example detecting parvovirus in a patient); prescribing treatments; providing a prognosis; performing surgery on patients.
+  - **Supervision of veterinary technicians:** veterinarians are responsible for supervising the actions of the veterinary team, including technicians. The lesson's levels below are a model; states define their own.
+  - **Immediate supervision:** the veterinarian is physically present in the room and actively observes the technician while they perform the task. Examples: assisting in surgery; induction of anesthesia.
+  - **Direct supervision:** the veterinarian is on site, readily available, and aware that the technician is performing the task, but doesn't need to be in the same room. Examples: anesthesia monitoring; dental procedures; fluid aspiration.
+  - **Indirect supervision:** the veterinarian isn't physically present but is available for consultation by phone or other means, and has authorized the technician to perform the task based on established protocols. Examples: administering routine treatments; radiographs; laboratory work.
+  - **Emergency care:** a special exception under indirect supervision, provided the technician contacts the veterinarian as soon as possible. Technicians can perform crucial lifesaving aid: controlling hemorrhage; cardiopulmonary resuscitation; applying wound dressings; treating heat prostration.
+  - **"A crucial bridge"** (the lesson's heading; the passage paraphrased in my words): most practices have two to four technicians per veterinarian. In a day the veterinarian might see around thirty patients while each technician follows about ten, so the technician is the one positioned to track each patient's care closely, catch anything that was missed, and make sure every need is met. The technician is the bridge between the veterinarian and the client and patient.
 
 > [!tip] Claude's note on "performing physical exams"
 > Technicians do perform physical examinations in the nursing sense: TPR, weight, body condition, mucous membranes, the head-to-tail check, and recording every finding. Interpreting those findings into a diagnosis or prognosis stays with the veterinarian. Worth phrasing it that way on the exam. See [[Supervision Levels and Scope of Practice - California]].
+
+> [!tip] Claude's note: the lesson's model versus California's law
+> The three levels above are the textbook and AVMA model; use them on the exam. California's regulations use only **direct** and **indirect**, and they put *inducing anesthesia* and *dental extractions* under **direct** supervision (there is no "immediate" category in California law). California's emergency rule (16 CCR 2069) lists tourniquets or pressure bandages, oxygen, opening an airway and CPR as what an RVT may do before reaching a veterinarian, with shock drugs and IV fluids only after direct contact. Details in [[Supervision Levels and Scope of Practice - California]]. ("Heat prostration" is the older term for heatstroke.)
 
 ## Brain dump (book closed)
 <!-- Right after reading, before looking at anything: write what you remember. Then compare with the lesson and put what you missed in **bold**; those become your first flashcards. -->
