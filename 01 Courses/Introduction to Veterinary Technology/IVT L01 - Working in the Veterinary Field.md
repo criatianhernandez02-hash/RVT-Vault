@@ -4,7 +4,7 @@ course: Introduction to Veterinary Technology
 lesson: 1
 vtne_domain: Communication and Professional Support
 tags: [rvt, lecture, communication]
-status: seed
+status: growing
 created: 2026-11-09
 updated: 2026-11-09
 target: 2026-11-11

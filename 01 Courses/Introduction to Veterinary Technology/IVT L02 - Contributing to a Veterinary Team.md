@@ -20,10 +20,11 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 > **Textbook pages / media:** 
 
 ## Before reading
-<!-- Skim the headings, then write three questions you expect this section to answer. -->
-1. 
-2. 
-3. 
+<!-- Pre-questions drafted by Claude from the section title and [[Veterinary Technician Credentials]]; replace or add your own after skimming the headings. -->
+1. Who is on a veterinary team (veterinarian, technician, technologist, assistant, practice manager, receptionist, kennel staff), and what does each role own day to day?
+2. What may a credentialed technician do that an assistant may not, and which four things stay with the veterinarian no matter what?
+3. What do the supervision levels (immediate, direct, indirect) mean in practice, and who decides which tasks need which level?
+4. How does the way a team communicates (handoffs, records, huddles, how you talk to each other in front of clients) change the patient's care and the client's experience?
 
 ## Key terms
 - **Term** — definition in my own words
