@@ -13,6 +13,7 @@ aliases: [pacing plan, schedule, study schedule]
 > Penn Foster's 6-month guide runs **Sun Nov 1, 2026 → Fri Apr 30, 2027**: 37 sections across six courses, one every 4.9 days. You started **Mon Nov 9, 2026** and want 4–5 months. This plan does **two sections a week** (targets on Wednesday and Saturday), takes Christmas week off for catch-up, and finishes on **Wed Mar 24, 2027**: 135 days, about 4.4 months, leaving **37 days of cushion** before Penn Foster's own end date. Their dates are the backstop, not the target.
 
 ## The daily rhythm (1 to 2 hours)
+The full method for working through a section is in [[How to Study a Section]]; this is how it fits into a night.
 1. **Open today's study log** (`Ctrl/Cmd + P` → *Open today's daily note*) and write down the one section you're on. 2 minutes.
 2. **Flashcards, 10 minutes.** Yesterday's cards plus one older set. With the Spaced Repetition plugin this is automatic; without it, open a set and cover the answers.
 3. **Lesson work, 45 to 90 minutes.** Read with the section's note open. Notes in your own words, one idea per bullet; key terms as you meet them; anything confusing goes under *Questions I still have*.

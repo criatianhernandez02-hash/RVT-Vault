@@ -12,10 +12,10 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 | `01 Courses/<Course>/` | One note per Penn Foster course section, each course with its own `<Course> MOC`. Semester 1 codes: `IVT`, `FVT`, `ILS`, `BIO`, `AP1`, `AP2`. `01 Courses/Semester 1 Pacing Plan.md` holds the schedule and study rhythm | Lecture Note |
 | `02 Topics/<VTNE domain>/` | Evergreen knowledge: topics, drug cards, condition cards, procedures. One folder per VTNE domain plus two supporting areas (Anatomy and Physiology, Exotic Animal Medicine), each with a `<Domain> MOC` | Topic Note, Drug Card, Condition Card, Procedure Note |
 | `03 Flashcards/` | Flashcard sets | Flashcard Set |
-| `04 Resources/` | Reference tables: normal values, dosage math, terminology | — |
+| `04 Resources/` | Reference tables (normal values, dosage math, terminology), `How to Study a Section` (the study method), `Reading List`, and Source Notes for papers, articles, videos and websites | Source Note |
 | `05 Study Log/` | One note per study day (Obsidian daily notes) | Study Session Log |
 | `Templates/` | Templates for the Obsidian core Templates plugin | — |
-| `Attachments/` | Images and PDFs embedded in notes | — |
+| `Attachments/` | Files embedded or linked from notes. Pasted images land at the top level; Penn Foster files go in `Course Materials/<Code>/`; papers and articles in `Papers/` | — |
 
 `Home.md` is the front door; `02 Topics/Topics MOC.md` lists the domains and their VTNE weights.
 
@@ -26,7 +26,7 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 - `type` is one of: `lecture`, `topic`, `drug`, `condition`, `procedure`, `flashcards`, `study-log`, `moc`, `resource`.
 - `status` is one of: `seed` (just started), `growing`, `evergreen` (complete and reviewed).
 - `vtne_domain` must match a domain or supporting-area name exactly as written in `Topics MOC` (for example `Pharmacy and Pharmacology`, `Emergency and Critical Care`, `Anatomy and Physiology`).
-- Tags are a controlled vocabulary: `rvt`, `moc`, `lecture`, `drug`, `condition`, `procedure`, `flashcards` (sub-tags allowed, such as `flashcards/pharmacology`), `resource`, `study-log`, `question`, `needs-review`, plus one lowercase domain tag such as `pharmacology`, `anesthesia`, `nursing`, `surgery`, `dentistry`, `laboratory`, `imaging`, `emergency`, `analgesia`, `communication`, `exotics`, `anatomy`. No `#` inside frontmatter.
+- Tags are a controlled vocabulary: `rvt`, `moc`, `lecture`, `drug`, `condition`, `procedure`, `flashcards` (sub-tags allowed, such as `flashcards/pharmacology`), `resource`, `source` (on Source Notes), `study-log`, `question`, `needs-review`, plus one lowercase domain tag such as `pharmacology`, `anesthesia`, `nursing`, `surgery`, `dentistry`, `laboratory`, `imaging`, `emergency`, `analgesia`, `communication`, `exotics`, `anatomy`. No `#` inside frontmatter.
 - Links are wikilinks, `[[Note Title]]`, resolved by **filename**, so every filename must be unique across the whole vault. Filenames are Title Case with spaces. Never use `# | ^ : % [ ] /` in a filename.
 - Lecture notes are named `<Course code> L<nn> - <Title>`, for example `AP1 L03 - Cardiovascular System`.
 - Dates are ISO `YYYY-MM-DD`. Bump `updated` on any note you change.
@@ -40,7 +40,9 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 - Never move, rename or delete the owner's notes with shell commands. Renames must happen inside Obsidian so links update. If a rename is really needed, ask, or update every `[[link]]` to the note in the same change.
 - Never rewrite the owner's own words. Add to their notes, annotate with callouts, and correct factual errors visibly (a short `> [!warning] Correction` callout), but preserve what they wrote.
 - Never touch `.obsidian/workspace*.json` or any plugin `data.json`.
-- Never paste copyrighted textbook or Penn Foster lesson text verbatim. Summarize and paraphrase.
+- Never paste copyrighted textbook or Penn Foster lesson text verbatim. Summarize and paraphrase; quote at most a few words.
+- Never commit Penn Foster lesson files, textbook scans or paywalled papers while the repository is public (check with `list_repos`). Leave such a file untracked and tell the owner to make the repository private first.
+- Never do the owner's learning for them. Summaries you write are for comparison against theirs, flashcards you draft are for them to edit; say so when you hand them over.
 - Never add personal data (student ID, address, grades) or anything from a clinic (client or patient names). The repository may be public.
 
 ## How to answer a study question
@@ -64,6 +66,11 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 - **"what's due"**: list section notes whose `target` falls in the next seven days, and anything overdue (`target` before today and `status` not `evergreen`), with links.
 - **"re-plan"**: recompute `target` dates for every section not yet `evergreen`, in order, from today: two sections a week (Wednesday and Saturday) unless the owner asks for a different pace, never later than Penn Foster's own end date (April 30, 2027 for Semester 1). Update the section notes, the course MOC tables and the week-by-week list and milestones in `Semester 1 Pacing Plan`, then report the new finish date and cushion.
 - **"file my inbox"**: move notes out of `00 Inbox` only by asking the owner to drag them in Obsidian, or by creating a properly named new note and linking it, then telling them which inbox note it replaces.
+- **"pre-questions for <section>"**: three to five questions to read for, from the section title, the course map and the material if it has been provided. Put them under the note's *Before reading* heading only if it is empty; otherwise reply in chat.
+- **"process this for <section>"** (an uploaded PDF, a pasted video transcript, screenshots): save any file to `Attachments/Course Materials/<Code>/` with a clear name and link it from the section note's *Textbook pages / media* line (respecting the public-repository rule above). In the section note add: plain-language definitions under *Key terms*; a `> [!note] Claude's summary (compare with yours)` callout of five to eight lines in your own words, never the lesson's sentences; and eight to twelve draft flashcards under *Flashcards*, marked `<!-- drafted by Claude, edit me -->`. If the owner has not read the section yet, give pre-questions instead of the summary and say the summary comes after they read.
+- **"check my notes on <section>"**: compare the owner's notes against the lesson objectives and material you have. List what is missing or wrong in a `> [!warning] Check` callout under their notes; do not rewrite their words.
+- **"teach-back: <section>"**: the owner explains the section to you. Play a classmate who missed the lesson: ask what is unclear, one question at a time, then point out gaps and errors against the material and the vault, kindly. Finish with two flashcards for the gaps and add them to the note.
+- **"source note for <link or file>"**: create a Source Note from the template in `04 Resources/`, fill what can be known (type, author, year, link), summarize in your own words with sources, link related topic notes, and add it to `Reading List`.
 
 ## The automated evening run
 

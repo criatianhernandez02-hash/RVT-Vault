@@ -19,13 +19,14 @@ Your RVT study vault. Everything is one or two clicks from here.
 ## Start here
 - 🎓 **Now:** [[Introduction to Veterinary Technology MOC]] — Semester 1, your current course; every section has a note waiting
 - 📅 [[Semester 1 Pacing Plan]] — two sections a week, 1–2 hours a day, finish Semester 1 by March 24, 2027
+- 📖 [[How to Study a Section]] — the method: Ask → Read → Dump → Fix → Card → Teach → Test
 - 📚 [[Courses MOC]] — your Penn Foster courses, one folder each, lecture notes inside
 - 🧠 [[Topics MOC]] — everything you learn, organized by the 10 VTNE exam domains
 - ❓ [[Questions for Claude]] — drop questions while you study; Claude answers them inside the vault
 - 🃏 [[Flashcards MOC]] — every flashcard set, ready for review
 
 ## Quick references
-- [[Normal Values]] · [[Drug Dosage Calculations]] · [[Medical Terminology Glossary]]
+- [[Normal Values]] · [[Drug Dosage Calculations]] · [[Medical Terminology Glossary]] · [[Reading List]]
 
 ## Daily habits
 - **Open today's study log:** `Ctrl/Cmd + P` → *Open today's daily note* (it lands in `05 Study Log` using the Study Session Log template)
