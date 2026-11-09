@@ -65,6 +65,10 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 - **"re-plan"**: recompute `target` dates for every section not yet `evergreen`, in order, from today: two sections a week (Wednesday and Saturday) unless the owner asks for a different pace, never later than Penn Foster's own end date (April 30, 2027 for Semester 1). Update the section notes, the course MOC tables and the week-by-week list and milestones in `Semester 1 Pacing Plan`, then report the new finish date and cushion.
 - **"file my inbox"**: move notes out of `00 Inbox` only by asking the owner to drag them in Obsidian, or by creating a properly named new note and linking it, then telling them which inbox note it replaces.
 
+## The automated evening run
+
+A scheduled task named **"Tonight's study plan"** runs every day at 5:42 PM Pacific in a fresh session. It pulls, writes a *Tonight's plan* callout into `05 Study Log/<today>.md` (creating the note from the Study Session Log template if needed), answers up to three open questions from `Questions for Claude`, commits `Tonight's plan: <date>`, and pushes. If you are that session, keep to exactly that scope: no re-planning, no reorganizing. If the owner asks to pause, re-time or delete it, use the scheduled-task tools (`list_triggers`, `update_trigger`, `delete_trigger`) and confirm what changed.
+
 ## Git
 
 - The owner syncs with the Obsidian Git plugin, so commits can arrive at any moment. Pull before you edit, keep commits small and descriptive ("Add topic note: Capnography basics"), and push to the branch you were asked to use.

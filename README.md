@@ -69,6 +69,8 @@ Open this repository in Claude Code (claude.ai/code → this repository) and tal
 
 `CLAUDE.md` tells Claude the rules of the vault: use the templates, keep links working, never overwrite your words, cite sources, and treat drug doses as study material rather than clinical advice. After Claude pushes, the Git plugin pulls its changes into Obsidian on your next sync.
 
+**Every evening at about 5:45 PM Pacific**, a scheduled Claude session pulls the vault, writes *Tonight's plan* into that day's note in `05 Study Log/` (which section, what to do tonight, three warm-up flashcards, what's due this week), answers up to three open questions from `Questions for Claude`, pushes, and sends a short phone notification. Since the vault syncs itself every 10 minutes, the plan is waiting when you sit down. To pause it, change the time, or stop it, ask Claude in any session on this repository: *"pause the evening plan"*, *"move the evening plan to 7 PM"*, *"delete the evening plan"*.
+
 ## Privacy and copyright
 
 - This repository is currently **public**: anyone with the link can read it. If you would rather keep your notes to yourself, make it private: github.com → this repository → Settings → General → *Danger Zone* → *Change visibility*. Everything else keeps working.
