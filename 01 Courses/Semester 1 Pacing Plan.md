@@ -52,8 +52,8 @@ Day one, Mon Nov 9, 2026: set up Obsidian, do [[IVT L00 - Getting Started]], and
 
 ### Week 1 · Nov 9 – Nov 15
 - ▶ **Introduction to Veterinary Technology** begins ([[Introduction to Veterinary Technology MOC]])
-- [ ] **Wed 11/11** · [[IVT L01 - Working in the Veterinary Field]] *(Penn Foster: 11/5)*
-- [ ] **Sat 11/14** · [[IVT L02 - Contributing to a Veterinary Team]] *(Penn Foster: 11/10)*
+- [x] **Wed 11/11** · [[IVT L01 - Working in the Veterinary Field]] *(Penn Foster: 11/5)* ✅ done 11/8, exam 100%
+- [x] **Sat 11/14** · [[IVT L02 - Contributing to a Veterinary Team]] *(Penn Foster: 11/10)* ✅ done 11/8, exam 100%
 ### Week 2 · Nov 16 – Nov 22
 - [ ] **Wed 11/18** · [[IVT L03 - Professional Behavior in the Veterinary Field]] *(Penn Foster: 11/15)*
 - [ ] **Sat 11/21** · [[IVT L04 - Communication in the Veterinary Field]] *(Penn Foster: 11/20)*

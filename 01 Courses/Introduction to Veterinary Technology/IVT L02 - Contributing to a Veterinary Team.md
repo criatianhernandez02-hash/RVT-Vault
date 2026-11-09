@@ -4,7 +4,7 @@ course: Introduction to Veterinary Technology
 lesson: 2
 vtne_domain: Communication and Professional Support
 tags: [rvt, lecture, communication]
-status: growing
+status: evergreen
 created: 2026-11-09
 updated: 2026-11-09
 target: 2026-11-14
@@ -17,6 +17,7 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 > **Course:** [[Introduction to Veterinary Technology MOC|Introduction to Veterinary Technology]]
 > **Section:** 2 of 8 · Penn Foster section 696567
 > **Target:** Sat Nov 14, 2026 · Penn Foster's 6-month date: Tue Nov 10, 2026
+> **Exam:** passed 2026-11-08 with 100%
 > **Textbook pages / media:** 
 > **Objectives (paraphrased from the lesson):**
 > 1. Tell apart the roles, education and legal scope of practice of each member of the veterinary medical team.
