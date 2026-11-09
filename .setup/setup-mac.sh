@@ -30,10 +30,22 @@ if [ -d "/Applications/Obsidian.app" ]; then echo "Obsidian is already installed
 if ! command -v git-credential-manager >/dev/null 2>&1; then brew install --cask git-credential-manager; fi
 git-credential-manager configure >/dev/null 2>&1 || true
 
-step "Step 2 of 5: Clone the vault into $VAULT"
+step "Step 2 of 5: Put the vault in $VAULT"
 if [ -d "$VAULT/.git" ]; then
-  echo "Already cloned; pulling the latest notes."
+  echo "This folder is already connected to GitHub; pulling the latest notes."
   git -C "$VAULT" pull
+elif [ -d "$VAULT" ]; then
+  # The folder exists (for example a vault you already made in Obsidian). Connect it to
+  # the GitHub vault in place: nothing in it is deleted, the GitHub notes are added.
+  if find "$VAULT" -mindepth 1 -maxdepth 1 ! -name ".obsidian" | read -r _; then
+    printf '\033[1;33mThe folder already has files in it; they are kept. Only files with the same name as vault files would be replaced.\033[0m\n'
+  fi
+  echo "Connecting the existing folder to GitHub..."
+  git -C "$VAULT" init >/dev/null
+  git -C "$VAULT" remote add origin "$REPO_URL"
+  git -C "$VAULT" fetch origin
+  BRANCH=$(git -C "$VAULT" remote show origin | sed -n 's/.*HEAD branch: //p' | head -1)
+  git -C "$VAULT" checkout -f -B "$BRANCH" "origin/$BRANCH"
 else
   mkdir -p "$(dirname "$VAULT")"
   git clone "$REPO_URL" "$VAULT"

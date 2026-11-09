@@ -54,10 +54,23 @@ if ($obsidianExe) {
     winget install --id Obsidian.Obsidian -e --source winget --accept-package-agreements --accept-source-agreements
 }
 
-Step "Step 2 of 5: Clone the vault into $Vault"
+Step "Step 2 of 5: Put the vault in $Vault"
 if (Test-Path (Join-Path $Vault ".git")) {
-    Write-Host "Already cloned; pulling the latest notes."
+    Write-Host "This folder is already connected to GitHub; pulling the latest notes."
     git -C $Vault pull
+} elseif (Test-Path $Vault) {
+    # The folder exists (for example a vault you already made in Obsidian). Connect it to
+    # the GitHub vault in place: nothing in it is deleted, the GitHub notes are added.
+    $others = Get-ChildItem -Force $Vault | Where-Object { $_.Name -ne ".obsidian" }
+    if ($others) {
+        Write-Host "The folder already has files in it; they are kept. Only files with the same name as vault files would be replaced." -ForegroundColor Yellow
+    }
+    Write-Host "Connecting the existing folder to GitHub..."
+    git -C $Vault init | Out-Null
+    git -C $Vault remote add origin $RepoUrl
+    git -C $Vault fetch origin
+    $branch = (git -C $Vault remote show origin | Select-String "HEAD branch: (.+)").Matches[0].Groups[1].Value.Trim()
+    git -C $Vault checkout -f -B $branch "origin/$branch"
 } else {
     New-Item -ItemType Directory -Force (Split-Path $Vault) | Out-Null
     git clone $RepoUrl $Vault
