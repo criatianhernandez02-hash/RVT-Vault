@@ -48,7 +48,7 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
   - Hospital operations
 - **Roles within the veterinary team** (with the names my clinic uses)
   - CSC — customer service coordinator
-  - "PADMA" — our veterinary technician <!-- as dictated; confirm the spelling and whether this is a role or a person -->
+  - The clinic's veterinary technician (the lesson uses an example character, "Padma", for this role)
   - Kennel attendant
   - Practice manager
   - The clinic's veterinarian or veterinarians
