@@ -26,10 +26,11 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 
 ## Before reading
 <!-- One pre-question per objective, drafted by Claude; add your own after skimming the headings. -->
-1. Who is on the team, what training does each role need, and what may each one legally do? Which four things stay with the veterinarian no matter what?
-2. What do immediate, direct and indirect supervision mean, which technician duties fit under each, and how does California name and define these levels?
-3. Beyond procedures, what is a technician responsible for in client communication and administrative work, and what may a technician decide and do in an emergency when the veterinarian isn't available?
-4. Where do technicians work besides general practice (specialty and VTS, emergency, shelter, zoo and wildlife, lab animal and research, industry, teaching, government), and what does each path ask for?
+Color key: <mark style="background:#ffe08a;color:#1a1a1a">Q1</mark> · <mark style="background:#b3d9ff;color:#1a1a1a">Q2</mark> · <mark style="background:#b6f0c2;color:#1a1a1a">Q3</mark> · <mark style="background:#ffc9de;color:#1a1a1a">Q4</mark> — the same colors mark the answers in Notes.
+1. <mark style="background:#ffe08a;color:#1a1a1a">Q1</mark> Who is on the team, what training does each role need, and what may each one legally do? Which four things stay with the veterinarian no matter what?
+2. <mark style="background:#b3d9ff;color:#1a1a1a">Q2</mark> What do immediate, direct and indirect supervision mean, which technician duties fit under each, and how does California name and define these levels?
+3. <mark style="background:#b6f0c2;color:#1a1a1a">Q3</mark> Beyond procedures, what is a technician responsible for in client communication and administrative work, and what may a technician decide and do in an emergency when the veterinarian isn't available?
+4. <mark style="background:#ffc9de;color:#1a1a1a">Q4</mark> Where do technicians work besides general practice (specialty and VTS, emergency, shelter, zoo and wildlife, lab animal and research, industry, teaching, government), and what does each path ask for?
 
 ## Key terms
 - **Term** — definition in my own words
@@ -37,49 +38,49 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 ## Notes
 <!-- One idea per bullet. Link to topic notes with [[double brackets]] as you go; a grey link just means the note doesn't exist yet. -->
 <!-- Dictated to Claude on 2026-11-08 (Pacific) and transcribed as spoken. -->
-- **Role of a veterinary technician**
-  - Gathering information from pet owners about their pet's condition
-  - Performing physical exams
-  - Diagnostic support
-  - Treatment and nursing care
-  - Client education and communication
-  - Medical records and compliance
-  - Patient handling and welfare
-  - Hospital operations
-- **Roles within the veterinary team** (with the names my clinic uses)
-  - CSC — customer service coordinator
-  - The clinic's veterinary technician (the lesson uses an example character, "Padma", for this role)
-  - Kennel attendant
-  - Practice manager
-  - The clinic's veterinarian or veterinarians
-- **Client care responsibilities of a technician**
-  - Collecting medical history
-  - Answering client questions
-  - Explaining tests and treatments that have been recommended by the veterinarian <!-- heard "tasks and treatment that have been recorded"; confirm the wording -->
-  - Educating clients on disease prevention and treatment
-- **Administrative responsibilities of a technician**
-  - Managing patient records
-  - Scheduling appointments
-  - Ensuring accurate billing and payment processing
-  - Maintaining inventory: ordering and organizing medical supplies, medications and vaccines
-  - Communicating with clients: reminders for follow-up care, explaining treatment plans, answering questions about procedures or pet health concerns
-  - Maintaining records for controlled substances
-  - Maintaining radiation safety logs
-  - Complying with applicable laws
+- <mark style="background:#ffe08a;color:#1a1a1a">**Role of a veterinary technician**</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Gathering information from pet owners about their pet's condition</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Performing physical exams</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Diagnostic support</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Treatment and nursing care</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Client education and communication</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Medical records and compliance</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Patient handling and welfare</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Hospital operations</mark>
+- <mark style="background:#ffe08a;color:#1a1a1a">**Roles within the veterinary team** (with the names my clinic uses)</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">CSC — customer service coordinator</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">The clinic's veterinary technician (the lesson uses an example character, "Padma", for this role)</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Kennel attendant</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">Practice manager</mark>
+  - <mark style="background:#ffe08a;color:#1a1a1a">The clinic's veterinarian or veterinarians</mark>
+- <mark style="background:#b6f0c2;color:#1a1a1a">**Client care responsibilities of a technician**</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Collecting medical history</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Answering client questions</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Explaining tests and treatments that have been recommended by the veterinarian</mark> <!-- heard "tasks and treatment that have been recorded"; confirm the wording -->
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Educating clients on disease prevention and treatment</mark>
+- <mark style="background:#b6f0c2;color:#1a1a1a">**Administrative responsibilities of a technician**</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Managing patient records</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Scheduling appointments</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Ensuring accurate billing and payment processing</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Maintaining inventory: ordering and organizing medical supplies, medications and vaccines</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Communicating with clients: reminders for follow-up care, explaining treatment plans, answering questions about procedures or pet health concerns</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Maintaining records for controlled substances</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Maintaining radiation safety logs</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">Complying with applicable laws</mark>
 - **Technicians and veterinarians working together**
-  - **Main duties of the veterinarian** (these are never delegated to a technician): diagnosing diseases (for example detecting parvovirus in a patient); prescribing treatments; providing a prognosis; performing surgery on patients.
-  - **Supervision of veterinary technicians:** veterinarians are responsible for supervising the actions of the veterinary team, including technicians. The lesson's levels below are a model; states define their own.
-  - **Immediate supervision:** the veterinarian is physically present in the room and actively observes the technician while they perform the task. Examples: assisting in surgery; induction of anesthesia.
-  - **Direct supervision:** the veterinarian is on site, readily available, and aware that the technician is performing the task, but doesn't need to be in the same room. Examples: anesthesia monitoring; dental procedures; fluid aspiration.
-  - **Indirect supervision:** the veterinarian isn't physically present but is available for consultation by phone or other means, and has authorized the technician to perform the task based on established protocols. Examples: administering routine treatments; radiographs; laboratory work.
-  - **Emergency care:** a special exception under indirect supervision, provided the technician contacts the veterinarian as soon as possible. Technicians can perform crucial lifesaving aid: controlling hemorrhage; cardiopulmonary resuscitation; applying wound dressings; treating heat prostration.
-  - **"A crucial bridge"** (the lesson's heading; the passage paraphrased in my words): most practices have two to four technicians per veterinarian. In a day the veterinarian might see around thirty patients while each technician follows about ten, so the technician is the one positioned to track each patient's care closely, catch anything that was missed, and make sure every need is met. The technician is the bridge between the veterinarian and the client and patient.
-- **Alternative roles for veterinary technicians**
-  - **Veterinary Technician Specialist (VTS).** NAVTA-recognized specialties: anesthesia and analgesia · small animal internal medicine · large animal internal medicine · emergency and critical care · behavior · dentistry · zoological medicine · clinical practice · clinical pathology · **equine** (my interest; see [[Equine VTS Pathway]]) · nutrition · ophthalmology · surgery · laboratory animal medicine · dermatology · rehabilitation · education · radiology
-  - **AALAS certification levels** (American Association for Laboratory Animal Science):
-    - **ALAT**, Assistant Laboratory Animal Technician: entry level; basic animal husbandry, environmental monitoring, sanitation, and record keeping in a facility
-    - **LAT**, Laboratory Animal Technician: mid-level; specialized animal care, animal handling, administering treatments and procedures, assisting with veterinary care and research
-    - **LATG**, Laboratory Animal Technologist: advanced level, often supervisory or management; advanced facility administration, complex technical procedures, training staff, overseeing research protocols
+  - <mark style="background:#ffe08a;color:#1a1a1a">**Main duties of the veterinarian** (these are never delegated to a technician): diagnosing diseases (for example detecting parvovirus in a patient); prescribing treatments; providing a prognosis; performing surgery on patients.</mark>
+  - <mark style="background:#b3d9ff;color:#1a1a1a">**Supervision of veterinary technicians:** veterinarians are responsible for supervising the actions of the veterinary team, including technicians. The lesson's levels below are a model; states define their own.</mark>
+  - <mark style="background:#b3d9ff;color:#1a1a1a">**Immediate supervision:** the veterinarian is physically present in the room and actively observes the technician while they perform the task. Examples: assisting in surgery; induction of anesthesia.</mark>
+  - <mark style="background:#b3d9ff;color:#1a1a1a">**Direct supervision:** the veterinarian is on site, readily available, and aware that the technician is performing the task, but doesn't need to be in the same room. Examples: anesthesia monitoring; dental procedures; fluid aspiration.</mark>
+  - <mark style="background:#b3d9ff;color:#1a1a1a">**Indirect supervision:** the veterinarian isn't physically present but is available for consultation by phone or other means, and has authorized the technician to perform the task based on established protocols. Examples: administering routine treatments; radiographs; laboratory work.</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">**Emergency care:** a special exception under indirect supervision, provided the technician contacts the veterinarian as soon as possible. Technicians can perform crucial lifesaving aid: controlling hemorrhage; cardiopulmonary resuscitation; applying wound dressings; treating heat prostration.</mark>
+  - <mark style="background:#b6f0c2;color:#1a1a1a">**"A crucial bridge"** (the lesson's heading; the passage paraphrased in my words): most practices have two to four technicians per veterinarian. In a day the veterinarian might see around thirty patients while each technician follows about ten, so the technician is the one positioned to track each patient's care closely, catch anything that was missed, and make sure every need is met. The technician is the bridge between the veterinarian and the client and patient.</mark>
+- <mark style="background:#ffc9de;color:#1a1a1a">**Alternative roles for veterinary technicians**</mark>
+  - <mark style="background:#ffc9de;color:#1a1a1a">**Veterinary Technician Specialist (VTS).** NAVTA-recognized specialties: anesthesia and analgesia · small animal internal medicine · large animal internal medicine · emergency and critical care · behavior · dentistry · zoological medicine · clinical practice · clinical pathology · **equine** (my interest; see [[Equine VTS Pathway]]) · nutrition · ophthalmology · surgery · laboratory animal medicine · dermatology · rehabilitation · education · radiology</mark>
+  - <mark style="background:#ffc9de;color:#1a1a1a">**AALAS certification levels** (American Association for Laboratory Animal Science):</mark>
+    - <mark style="background:#ffc9de;color:#1a1a1a">**ALAT**, Assistant Laboratory Animal Technician: entry level; basic animal husbandry, environmental monitoring, sanitation, and record keeping in a facility</mark>
+    - <mark style="background:#ffc9de;color:#1a1a1a">**LAT**, Laboratory Animal Technician: mid-level; specialized animal care, animal handling, administering treatments and procedures, assisting with veterinary care and research</mark>
+    - <mark style="background:#ffc9de;color:#1a1a1a">**LATG**, Laboratory Animal Technologist: advanced level, often supervisory or management; advanced facility administration, complex technical procedures, training staff, overseeing research protocols</mark>
 
 > [!tip] Claude's note on "performing physical exams"
 > Technicians do perform physical examinations in the nursing sense: TPR, weight, body condition, mucous membranes, the head-to-tail check, and recording every finding. Interpreting those findings into a diagnosis or prognosis stays with the veterinarian. Worth phrasing it that way on the exam. See [[Supervision Levels and Scope of Practice - California]].

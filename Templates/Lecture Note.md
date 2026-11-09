@@ -18,7 +18,7 @@ source:
 > **Textbook pages / media:** 
 
 ## Before reading
-<!-- Skim the headings, then write three questions you expect this section to answer. -->
+<!-- Skim the headings, then write three questions you expect this section to answer. Optional: give each question a color and highlight its answers in Notes with the same color (palette in CLAUDE.md), or ask Claude to "color-code my notes". -->
 1. 
 2. 
 3. 
