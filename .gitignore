@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------------------
+# Obsidian: device-specific state. These change constantly and differ per
+# device, so they must never be shared through git.
+# ---------------------------------------------------------------------------
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+
+# Community plugin settings. Some plugins keep API keys or tokens in here, and
+# this repository is public, so plugin settings stay on each device.
+# If you want a plugin's settings to sync between devices, delete this line
+# (or add an exception such as:  !.obsidian/plugins/obsidian-git/data.json ).
+.obsidian/plugins/*/data.json
+
+# Obsidian "local trash" folder (Settings > Files and links > Deleted files)
+.trash/
+
+# ---------------------------------------------------------------------------
+# OS / editor junk
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*~
+~$*
+.vscode/
+.idea/
