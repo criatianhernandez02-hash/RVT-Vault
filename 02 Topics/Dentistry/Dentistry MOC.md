@@ -20,7 +20,7 @@ summary: Map for the dentistry domain (7 %): dental anatomy, charting, periodont
 - Home care and client education
 
 ## Core notes
-- 
+- [[Dental Extractions by Technicians - Law and Ethics]] (who may extract teeth in California, and what the AVMA, AAHA, AVDC and AVDT say)
 
 ## Flashcards
 - 

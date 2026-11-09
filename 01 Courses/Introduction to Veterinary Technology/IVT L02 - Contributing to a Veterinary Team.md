@@ -96,7 +96,12 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 <!-- Format: Question::Answer   (one per line) -->
 #flashcards
 
+## Research tasks (from the lesson)
+<!-- Facts and sources are in the linked note; write what you submit in your own words under "Your write-up" there. -->
+- [ ] Legal and ethical scope of dental extractions for technicians: California's rules and supervision requirements; the positions of the AVMA, AAHA, AVDC and AVDT and how they align with California law; why organizations set higher standards; my conclusion on whether technicians should extract teeth → [[Dental Extractions by Technicians - Law and Ethics]]
+
 ## Related
+- [[Dental Extractions by Technicians - Law and Ethics]] (the lesson's research task)
 - [[Veterinary Technician Credentials]] (roles, education, career paths: objectives 1 and 4)
 - [[Supervision Levels and Scope of Practice - California]] (supervision levels, RVT tasks by level, emergency care: objectives 2 and 3)
 - [[Client Communication - Rapport and Recommendations]] (the communication half of objective 3)
