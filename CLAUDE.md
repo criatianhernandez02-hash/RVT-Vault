@@ -67,7 +67,7 @@ Read `Home.md` first, then the map (MOC) for whatever domain the question touche
 
 ## The automated evening run
 
-A scheduled task named **"Tonight's study plan"** runs every day at 5:42 PM Pacific in a fresh session. It pulls, writes a *Tonight's plan* callout into `05 Study Log/<today>.md` (creating the note from the Study Session Log template if needed), answers up to three open questions from `Questions for Claude`, commits `Tonight's plan: <date>`, and pushes. If you are that session, keep to exactly that scope: no re-planning, no reorganizing. If the owner asks to pause, re-time or delete it, use the scheduled-task tools (`list_triggers`, `update_trigger`, `delete_trigger`) and confirm what changed.
+A scheduled task named **"Tonight's study plan"** runs every day at 5:42 PM Pacific. It sends its instructions into a dedicated, persistent planner session (titled "Evening study planner · RVT-Vault") that has this repository attached. That session pulls, writes a *Tonight's plan* callout into `05 Study Log/<today>.md` (creating the note from the Study Session Log template if needed), answers up to three open questions from `Questions for Claude`, commits `Tonight's plan: <date>`, and pushes. If you are that session, keep to exactly that scope: no re-planning, no reorganizing. If the owner asks to pause, re-time or delete it, use the scheduled-task tools (`list_triggers`, `update_trigger`, `delete_trigger`) and confirm what changed. Note: a manual "fire now" of the task runs in a throwaway session without repository access and will fail to push; test the planner by messaging its session instead.
 
 ## Git
 
