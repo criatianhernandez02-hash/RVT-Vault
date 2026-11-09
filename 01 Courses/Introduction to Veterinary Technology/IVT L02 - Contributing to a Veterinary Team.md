@@ -103,7 +103,21 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 
 ## Brain dump (book closed)
 <!-- Right after reading, before looking at anything: write what you remember. Then compare with the lesson and put what you missed in **bold**; those become your first flashcards. -->
-- 
+<!-- Dictated to Claude on 2026-11-08 (Pacific) right after finishing the section. -->
+- We play significant roles as veterinary technicians, assisting our veterinarians.
+- We must understand our scope of practice: what we're able to do depending on what the patient needs, whether it needs indirect supervision or immediate supervision. We have to understand what we're able to do within the types of supervision in our field.
+- There are different career paths we could take, and specializations.
+- We must have clean communication, so treatments, medication, everything is done efficiently and correctly.
+
+> [!warning] Fix (Claude): what the dump covered, and what to pull back in
+> **Covered:** the big picture of all four objectives: supporting the veterinarian, scope and supervision, career paths, communication. That's the frame.
+> **Missing, by objective (these are your flashcards):**
+> 1. The **four veterinarian-only duties**: diagnose, prognose, prescribe, perform surgery. And the team roles with their training (assistant vs technician vs technologist vs veterinarian).
+> 2. You named immediate and indirect but not **direct**, and none of the **definitions or examples** (immediate: in the room, e.g. surgery assist, anesthesia induction; direct: on site, e.g. anesthesia monitoring, dentals; indirect: reachable by phone under protocols, e.g. routine treatments, radiographs, lab work). The **emergency exception** didn't come back: lifesaving aid under indirect supervision if you contact the vet ASAP (hemorrhage control, CPR, wound dressings, heat prostration).
+> 3. The specific **client-care duties** (history, questions, explaining the vet's recommendations, client education) and **administrative duties**, especially the compliance ones: **controlled-substance records, radiation safety logs, complying with laws**. Also the "**crucial bridge**" numbers: 2–4 techs per vet, ~30 patients vs ~10.
+> 4. The specifics: **VTS** granted by NAVTA-recognized academies, and the **AALAS ladder ALAT → LAT → LATG**.
+> Plus your research task: in California, RVT extractions are legal under **direct** supervision, and the professional organizations are stricter.
+> None of this is surprising after one read; it's exactly what the cards below are for.
 
 ## Summary (three sentences, in my own words)
 
@@ -115,6 +129,29 @@ source: Penn Foster VET103LB, section 696567: Contributing to a Veterinary Team
 ## Flashcards
 <!-- Format: Question::Answer   (one per line) -->
 #flashcards
+<!-- Drafted by Claude from your notes and the brain-dump gaps; edit, reword or delete freely. They're yours once you've touched them. -->
+
+Which four duties belong only to the veterinarian and are never delegated to a technician?::Diagnosis, prognosis, prescribing treatment, and performing surgery.
+
+Immediate supervision (lesson model): definition and two examples?::The veterinarian is physically in the room, actively watching the technician perform the task. Examples: assisting in surgery; inducing anesthesia.
+
+Direct supervision (lesson model): definition and examples?::The veterinarian is on site, readily available and aware of the task, but doesn't need to be in the room. Examples: anesthesia monitoring, dental procedures, fluid aspiration.
+
+Indirect supervision (lesson model): definition and examples?::The veterinarian isn't physically present but is reachable by phone or other means and has authorized the task under established protocols. Examples: routine treatments, radiographs, laboratory work.
+
+What is the emergency-care exception, and what four lifesaving actions does the lesson list?::Under indirect supervision a technician may give lifesaving aid provided the veterinarian is contacted as soon as possible: controlling hemorrhage, CPR, applying wound dressings, treating heat prostration.
+
+Name four client-care responsibilities of a technician.::Collecting the medical history; answering client questions; explaining tests and treatments the veterinarian recommended; educating clients on disease prevention and treatment.
+
+Name five administrative responsibilities of a technician.::Any five of: managing patient records, scheduling, billing and payment processing, inventory of supplies, medications and vaccines, controlled-substance records, radiation safety logs, complying with applicable laws.
+
+Why does the lesson call the technician "a crucial bridge"?::With two to four technicians per veterinarian, the vet may see about 30 patients a day while a technician follows about 10, so the technician tracks each patient closely and connects the veterinarian with the client and patient.
+
+What is a VTS, and who recognizes the academies that grant it?::Veterinary Technician Specialist; the academies are recognized by NAVTA (National Association of Veterinary Technicians in America).
+
+The three AALAS certification levels, lowest to highest?::ALAT (Assistant Laboratory Animal Technician), LAT (Laboratory Animal Technician), LATG (Laboratory Animal Technologist).
+
+In California, may an RVT perform dental extractions, and under what supervision?::Yes, under direct supervision only (veterinarian physically present at the location and quickly available), per 16 CCR 2036(b).
 
 ## Research tasks (from the lesson)
 <!-- Facts and sources are in the linked note; write what you submit in your own words under "Your write-up" there. -->
