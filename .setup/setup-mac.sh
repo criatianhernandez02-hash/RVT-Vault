@@ -7,10 +7,14 @@
 # Git, Obsidian and Git Credential Manager (so GitHub sign-in is a browser window instead
 # of a token), clones the vault to ~/Documents/RVT-Vault, sets the Git plugin to sync
 # every 10 minutes, and opens the vault in Obsidian. Safe to run again.
+#
+# To put the vault somewhere else, set the location first, then run the command above:
+#   export RVT_VAULT_DIR="$HOME/Notes/RVT-Vault"
 
 set -euo pipefail
 REPO_URL="https://github.com/criatianhernandez02-hash/RVT-Vault.git"
-VAULT="$HOME/Documents/RVT-Vault"
+VAULT="${RVT_VAULT_DIR:-$HOME/Documents/RVT-Vault}"
+echo "Vault location: $VAULT"
 step() { printf '\n\033[1;36m==> %s\033[0m\n' "$1"; }
 
 step "Step 1 of 5: Homebrew (installs the other tools)"

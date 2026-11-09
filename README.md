@@ -36,6 +36,8 @@ Every note has a small block of properties at the top (type, course, VTNE domain
   bash <(curl -fsSL https://raw.githubusercontent.com/criatianhernandez02-hash/RVT-Vault/claude/cloud-environment-setup-ldu8h3/.setup/setup-mac.sh)
   ```
 
+To put the vault somewhere other than `Documents/RVT-Vault` (another drive, say), set the location on the line before the command: Windows `$env:RVT_VAULT_DIR = "D:\RVT-Vault"`, Mac `export RVT_VAULT_DIR="$HOME/Notes/RVT-Vault"`.
+
 The scripts live in `.setup/` if you want to read them first. Or do it by hand:
 
 1. **Install Obsidian** from obsidian.md, and **install Git**: on Windows, Git for Windows (gitforwindows.org); on a Mac, run `xcode-select --install` in Terminal.

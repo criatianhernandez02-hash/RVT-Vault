@@ -5,10 +5,15 @@
 # What it does: installs Git and Obsidian with winget if they are missing, clones the
 # vault to Documents\RVT-Vault, sets the Git plugin to sync every 10 minutes, and opens
 # the vault in Obsidian. It changes nothing else on your computer. Safe to run again.
+#
+# To put the vault somewhere else (for example on the D: drive), set the location first,
+# then run the command above:
+#   $env:RVT_VAULT_DIR = "D:\RVT-Vault"
 
 $ErrorActionPreference = "Stop"
 $RepoUrl = "https://github.com/criatianhernandez02-hash/RVT-Vault.git"
-$Vault   = Join-Path $HOME "Documents\RVT-Vault"
+$Vault   = if ($env:RVT_VAULT_DIR) { $env:RVT_VAULT_DIR } else { Join-Path $HOME "Documents\RVT-Vault" }
+Write-Host "Vault location: $Vault"
 
 function Step($msg) { Write-Host "`n==> $msg" -ForegroundColor Cyan }
 function Has($cmd)  { return [bool](Get-Command $cmd -ErrorAction SilentlyContinue) }
